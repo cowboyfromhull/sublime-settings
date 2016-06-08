@@ -6,28 +6,19 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Better CoffeeScript",
 		"BracketHighlighter",
 		"CSScomb",
 		"DocBlockr",
-		"Emmet",
 		"FileDiffs",
-		"Gist",
 		"Git",
 		"GitGutter",
-		"Http Requester",
-		"Jekyll",
-		"LESS",
 		"Markdown Extended",
-		"Nettuts+ Fetch",
 		"Package Control",
 		"SideBarEnhancements",
-		"Siteleaf Liquid Syntax",
 		"SublimeLinter",
 		"SublimeLinter-coffee",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-csslint",
-		"SublimeREPL",
 		"Theme - Sodarized"
 	]
 }
